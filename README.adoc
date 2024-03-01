@@ -1,0 +1,6 @@
+:icons: font
+:source-highlighter: highlightjs
+
+= Android and NodeJS image builder
+
+The `docker-build-android-nodejs` image is provided to ease the building of android artifacts (apk, aap, aar, ... )Docker image used during development.
